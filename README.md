@@ -1,4 +1,4 @@
-# nightwave
+# Nightwave
 
 WINDOWS ONLY
 
